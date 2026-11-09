@@ -1,0 +1,5 @@
+Feature,Role,Reason for Selection
+study_hours,Input Feature,Represents the time spent studying and may help explain academic performance.
+attendance_pct,Input Feature,Represents class attendance and may provide information about student participation.
+assignment_score,Input Feature,Represents assignment performance and demonstrates academic understanding.
+previous_exam_score,Input Feature,Represents previous academic performance and may help predict future examination results.
